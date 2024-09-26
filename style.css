@@ -1,0 +1,83 @@
+h1.firstclass{
+    color: #631a76;
+}
+
+.table{
+    text-align: center;
+}
+
+.thead{
+    background-color: #ffff00;
+}
+
+.c310{
+    background-color: #c4e538;
+}
+
+.csir{
+    background-color: #ffcccc;
+}
+
+.ct8{
+    background-color: #ff6b81;
+}
+
+.ct10{
+    background-color: #2ed573;
+}
+
+.c1{
+    background-color: #ee82ee;
+}
+
+.c2{
+    background-color: #8e4abe;
+}
+.c3{
+    background-color: #2222fd;
+}
+.c4{
+    background-color: #008000;
+}
+
+.c6{
+    background-color: #ffa500;
+}
+
+.sat{
+    background-color: #f6b93b;
+}
+
+.sun{
+    background-color: #ff3f34;
+}
+
+.mon{
+    background-color: #0fbcf9;
+}
+
+.tues{
+    background-color: #78e08f;
+}
+
+.wed{
+    background-color: #d980fa;
+}
+
+.thurs{
+    background-color: #d1d8e0;
+}
+
+p{
+    background-color: #d2d2d2;
+    color: #6f4fc8;
+}
+h3{
+    color: red;
+}
+
+h1.foot{
+    background-color: #45d76a;
+    color: white;
+    text-align: center;
+}
